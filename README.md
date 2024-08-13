@@ -1,4 +1,4 @@
-<img width="623" alt="image" src="https://github.com/user-attachments/assets/20c1f5c7-8c02-4220-9068-ad14c5b22637">Keywords: Python, Console art, Recursive
+Keywords: Python, Console art, Recursive
 
 📝 Task Objective
 
