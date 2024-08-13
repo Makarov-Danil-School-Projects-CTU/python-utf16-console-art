@@ -1,4 +1,4 @@
-Keywords: Python, Console art, Recursive
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/20c1f5c7-8c02-4220-9068-ad14c5b22637">Keywords: Python, Console art, Recursive
 
 📝 Task Objective
 
@@ -12,7 +12,7 @@ Input:
 
 Output:
 
-42<br>├──>1<br> │...└──>True<br> │.......├──>abc<br>│.......└──>def<br>└──>2<br>....├──>3.14159<br>....└──>6.023e+23
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/49a99923-8dae-48f2-a2d7-0586ee70d5b1">
 
 
 🎨 Tree Rendering Rules:
